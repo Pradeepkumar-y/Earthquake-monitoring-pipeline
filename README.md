@@ -152,3 +152,6 @@ grafana/dashboard_screenshots/
 -Spark schema enforcement avoids data quality issues
 -InfluxDB is optimized for temporal queries
 -Grafana enables fast operational insights
+
+**## Video Presentation Link**
+https://drive.google.com/file/d/12yOeE_5oMQja1bRVseKy8RXZaWFn8TJ8/view?usp=sharing
